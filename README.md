@@ -1,8 +1,6 @@
 # later
 
-## VERSION
-
-This is a patched version, which allow `later` to be used on Android device in [`Termux`](https://github.com/termux).
+**This is a patched version, which allows `later` to be used on Android device in [`Termux`](https://github.com/termux).**
 
 <!-- badges: start -->
 [![R build status](https://github.com/r-lib/later/workflows/R-CMD-check/badge.svg)](https://github.com/r-lib/later/actions)
