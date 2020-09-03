@@ -1,9 +1,12 @@
 # later
 
+## VERSION
+
+This is a patched version, which allow `later` to be used on Android device in [`Termux`](https://github.com/termux).
+
 <!-- badges: start -->
 [![R build status](https://github.com/r-lib/later/workflows/R-CMD-check/badge.svg)](https://github.com/r-lib/later/actions)
 <!-- badges: end -->
-
 
 Schedule an R function or formula to run after a specified period of time. Similar to JavaScript's `setTimeout` function. Like JavaScript, R is single-threaded so there's no guarantee that the operation will run exactly at the requested time, only that at least that much time will elapse.
 
